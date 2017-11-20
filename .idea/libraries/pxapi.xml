@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pxapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../pxapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../anselm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AgileAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
